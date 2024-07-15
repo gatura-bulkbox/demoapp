@@ -102,6 +102,11 @@ app_license = "MIT"
 #		"on_trash": "method"
 #	}
 # }
+doc_events = {
+	"Sales Invoice": {
+		"on_submit":"demo.api.open_print_view"
+	}
+}
 
 # Scheduled Tasks
 # ---------------

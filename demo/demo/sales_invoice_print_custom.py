@@ -1,5 +1,3 @@
-# demo/demo/api.py
-
 import frappe
 
 def open_print_view(doc, method):

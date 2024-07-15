@@ -104,7 +104,7 @@ app_license = "MIT"
 # }
 doc_events = {
 	"Sales Invoice": {
-		"on_submit":"demo.sales_invoice_print_custom.open_print_view"
+		"on_submit":"demo.demo.sales_invoice_print_custom.open_print_view"
 	}
 }
 
